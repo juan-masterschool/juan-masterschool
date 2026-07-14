@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with JavaScript & React.
 - 💬 Ask me about C/C++/Assembler.
 - 📫 How to reach me: juan@faculty.masterschool.com
-- - 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love the mountains!
